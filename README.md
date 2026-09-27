@@ -53,3 +53,12 @@ Respuesta:
   "stock": 50,
   "mensaje": "Producto registrado correctamente"
 }
+
+Crear un nuevo provedor:
+
+* {
+  "name": "string",
+  "phone": "string",
+  "email": "string",
+  "city": "string"
+}
