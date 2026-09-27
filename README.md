@@ -5,7 +5,7 @@ Descripción breve de lo que hace la aplicación
 
 ## Integrantes 
 
-* DAVID CORREDOR HENAO
+ DAVID CORREDOR HENAO
 * Desarrollo de API backend, rutas de productos, conexión a base de datos PostgreSQL y documentación.
 
 ## Instrucciones de Ejecución
@@ -22,16 +22,17 @@ pasos para ejecutar el proyecto de manera local:
 
 ## Instalar dependencias 
 
+* npm install
 ## Variables de entorno
 
 crea un archivo .env en la raiz
-(PORT=3000
+* (PORT=3000
 DB_URL=tu_conexion_aquí)
 
 
 ## Ejecutar el proyecto
 
-npm start   # O el comando correspondiente para iniciar el servidor
+* npm start   # O el comando correspondiente para iniciar el servidor
 
 ## Ejemplo de Endpoints
 
