@@ -10,7 +10,7 @@ Descripción breve de lo que hace la aplicación
 
 ## Instrucciones de Ejecución
 
-pasos para ejecutar el proyecto de manera local:
+Pasos para ejecutar el proyecto de manera local:
 * (npm install, npm start, etc.)
 
 ## Requisitos previos
@@ -25,7 +25,7 @@ pasos para ejecutar el proyecto de manera local:
 * npm install
 ## Variables de entorno
 
-crea un archivo .env en la raiz
+Crea un archivo .env en la raiz
 * (PORT=3000
 DB_URL=tu_conexion_aquí)
 
@@ -36,7 +36,7 @@ DB_URL=tu_conexion_aquí)
 
 ## Ejemplo de Endpoints
 
-crear un nuevo producto:
+Crear un nuevo producto:
 
 * {
   "nombre": "Arroz 1Kg",
