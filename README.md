@@ -6,11 +6,12 @@ Descripción breve de lo que hace la aplicación
 ## Integrantes 
 
 * DAVID CORREDOR HENAO
-
+* Desarrollo de API backend, rutas de productos, conexión a base de datos PostgreSQL y documentación.
 
 ## Instrucciones de Ejecución
 
 pasos para ejecutar el proyecto de manera local:
+* (npm install, npm start, etc.)
 
 ## Requisitos previos
 * Node.js
